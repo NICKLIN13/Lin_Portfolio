@@ -34,7 +34,7 @@ function ProjectPage() {
 											<li>Projected user-provided images onto any 3D models</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://github.com/NICKLIN13/Personal-Side-Works/tree/main/hangman-typescript" class="btn btn-primary" target="_blank">GitHub</Button>
+									<Button className='custom-button' href="https://youtu.be/uHb1QbmsHDE" class="btn btn-primary" target="_blank">Demo video</Button>
 								</div>
 							</div>
 						</div>
@@ -58,7 +58,7 @@ function ProjectPage() {
 											<li>Interactive "drive" and "fly" modes, and erosion effects</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://github.com/NICKLIN13/Personal-Side-Works/tree/main/hangman-typescript" class="btn btn-primary" target="_blank">GitHub</Button>
+									<Button className='custom-button' href="https://youtu.be/P-eXagOgGXw" class="btn btn-primary" target="_blank">Demo video</Button>
 								</div>
 							</div>
 						</div>
@@ -81,7 +81,7 @@ function ProjectPage() {
 											<li>Rendered png images by reading the txt files</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://github.com/NICKLIN13/Personal-Side-Works/tree/main/python-flask-google-login" class="btn btn-primary" target="_blank">GitHub</Button>
+									<Button className='custom-button' href="https://github.com/NICKLIN13" class="btn btn-primary" target="_blank">GitHub</Button>
 								</div>
 							</div>
 						</div>
@@ -133,7 +133,7 @@ function ProjectPage() {
 											<li>Wrote instrumented tests to ensure proper user interactions</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://lin-todolist.onrender.com" class="btn btn-primary" target="_blank">Demo</Button>
+									<Button className='custom-button' href="https://www.youtube.com/watch?v=1AYGFNd6I00" class="btn btn-primary" target="_blank">Demo video</Button>
 								</div>
 							</div>
 						</div>
@@ -156,7 +156,7 @@ function ProjectPage() {
 											<li>Integrated and deployed user interfaces into a cohesive narrative webpage</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://lin-todolist.onrender.com" class="btn btn-primary" target="_blank">Demo</Button>
+									<Button className='custom-button' href="https://nicklin13.github.io/yutingl9_CS416_NarrativeVisualization/DV_Final_Scene1.html" class="btn btn-primary" target="_blank">Demo</Button>
 								</div>
 							</div>
 						</div>
