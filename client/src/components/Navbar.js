@@ -23,7 +23,7 @@ const Navbar = () => {
 					<div class="collapse navbar-collapse justify-content-center" id="navbarNav">
 						<ul class="navbar-nav">
 							<li class="navbar-brand">
-							<Link class="nav-link" to="/">About Me</Link>
+							<Link class="nav-link" to="/nicklin13_portfolio">About Me</Link>
 							</li>
 							<li class="navbar-brand">
 								<a class="nav-link" href="#">Experience</a>

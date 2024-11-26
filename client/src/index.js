@@ -12,7 +12,7 @@ import ProjectPage from './pages/ProjectPage';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/nicklin13_portfolio",
     element: <App />,
   },
   {

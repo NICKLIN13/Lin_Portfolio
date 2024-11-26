@@ -19,7 +19,7 @@ function ProjectPage() {
         <div className='container'>
           <div className="card">
             <div className='card-image'>
-              <img src="/Project-Images/IMAGE_To-do-list.png" alt="TodoList App" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+              <img src="nicklin13_portfolio/Project-Images/IMAGE_To-do-list.png" alt="TodoList App" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
             </div>
             <div className="card-body">
               <h4>Todo List</h4>
@@ -43,7 +43,7 @@ function ProjectPage() {
 
           <div className="card">
             <div className='card-image'>
-              <img src="/Project-Images/Hangman.png" alt="Hangman Game" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+              <img src="nicklin13_portfolio/Project-Images/Hangman.png" alt="Hangman Game" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
             </div>
             <div className="card-body">
               <h4>Hangman</h4>
@@ -64,7 +64,7 @@ function ProjectPage() {
 
           <div className="card">
             <div className='card-image'>
-              <img src="/Project-Images/Login-with-Google.png" alt="Login with Google" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+              <img src="nicklin13_portfolio/Project-Images/Login-with-Google.png" alt="Login with Google" style={{ width: '286px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
             </div>
             <div className="card-body">
               <h4>Login with Google</h4>
