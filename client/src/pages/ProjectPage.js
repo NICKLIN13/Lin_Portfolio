@@ -118,12 +118,13 @@ function ProjectPage() {
 									<img src="nicklin13_portfolio/Project-Images/Weather App.png" alt="Data Visualizatioin" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
 								</div>
 								<div className="card-body">
-									<h4>Weather Mobile App</h4>
+									<h4>Weather Mobile App(Team Project)</h4>
 									<div className='text-start fs-6' style={{ marginTop: '9px' }}>
 										<span className="badge bg-secondary d-inline-block">Android Studio</span>
 										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Java</span>
-										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Gemini LLM</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Gemini</span>
 										<span className="badge bg-secondary d-inline-block">Google Maps</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Git</span>
 									</div>
 
 									<CardText style={{ marginTop: '15px' }}>
