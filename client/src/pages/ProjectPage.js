@@ -9,8 +9,9 @@ function ProjectPage() {
 	return (
 		<div className='App'>
 			<Navbar />
-
-			<h1 style={{ marginTop: '10px' }}>My Projects <span class="badge bg-secondary">New</span> </h1>
+			<div className='underNavbar'>
+				<h1 style={{ marginTop: '10px' }}>My Projects <span class="badge bg-secondary">New</span> </h1>
+			</div>
 
 			<header className='App-header'>
 				<h1 className='my-4'>2024</h1>
