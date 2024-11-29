@@ -113,7 +113,7 @@ function ProjectPage() {
 							</div>
 						</div>
 
-						<div className='col-md-3 d-flex' style={{marginTop: '30px'}}>
+						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}} id='secondRowProject'>
 							<div className="card">
 								<div className='card-image'>
 									<img src="nicklin13_portfolio/Project-Images/Weather App.png" alt="Data Visualizatioin" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
@@ -140,7 +140,7 @@ function ProjectPage() {
 							</div>
 						</div>
 
-						<div className='col-md-3 d-flex' style={{marginTop: '30px'}}>
+						<div className='col-md-3 d-flex  justify-content-center' style={{marginTop: '30px'}} id='secondRowProject2'>
 							<div className="card">
 								<div className='card-image'>
 									<img src="nicklin13_portfolio/Project-Images/DV.png" alt="Data Visualizatioin" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
@@ -163,8 +163,8 @@ function ProjectPage() {
 							</div>
 						</div>
 
-						<div className='col-md-3 d-flex' style={{marginTop: '30px'}}></div>
-						<div className='col-md-3 d-flex' style={{marginTop: '30px'}}></div>
+						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}}></div>
+						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}}></div>
 					</div>
 				</div>
 

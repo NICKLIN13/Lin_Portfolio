@@ -76,19 +76,59 @@ body {
 }
 
 
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 400px) {
+  .App-header {
+    width: 100vw;
   }
-  to {
-    transform: rotate(360deg);
+  .App-header div {
+    max-width: 100vw;
   }
-}
+  #aboutMe h5 {
+    font-size: 16px;
+  }
+  #aboutMe h6 {
+    font-size: 13px;
+  }
+  #aboutMe .text-start.fs-6 {
+    font-size: 12px  !important;
+  }
+  .App-header .badge.bg-secondary.d-inline-block {
+    margin-left: 5px !important;
+  }
+
+/* self summary */
+  .App-header img {
+    width: 130px;
+    height: 130px;
+    margin-right: 20px;
+    margin-left: 15px;
+  }
+  #selfIntroduction .d-flex.flex-column.justify-content-center {
+    justify-content: flex-start !important;
+  }
+  #selfIntroduction {
+    display: flex;
+    flex-direction: column;
+    height: 400px !important;
+  }
+  #selfIntroduction .d-flex.flex-column.justify-content-center.align-items-center {
+    flex-direction: row !important;
+    margin-left: 0px !important;
+    margin-bottom: 20px !important;
+  }
+  #selfIntroduction .col-md-7.d-flex.flex-column.justify-content-center {
+    margin-left: 0px !important;
+  }
 
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+/* projects */
+  #secondRowProject {
+    margin-top: 0px !important;
+  }
+  #secondRowProject2 {
+    margin-top: 0px !important;
+  }
+  .my-4 {
+    margin-bottom: 0px !important;
   }
 }

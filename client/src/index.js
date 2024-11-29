@@ -1,14 +1,11 @@
+import App from './App';
+import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
+import ProjectPage from './pages/ProjectPage';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-} from "react-router-dom";
-import ProjectPage from './pages/ProjectPage';
+import './index.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 const router = createBrowserRouter([
   {
