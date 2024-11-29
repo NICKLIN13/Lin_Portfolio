@@ -38,7 +38,6 @@ function App() {
 
 					<div className='col-md-7 d-flex flex-column justify-content-center' style={{ marginLeft: '80px' }}>
 						<h5 className='text-start'><b>Software developer & Master student at UIUC</b></h5>
-						<br />
 						<p className='text-start fs-6'>
 							<br />
 							I am Yu-Ting Lin, also known as NICK.
@@ -57,7 +56,6 @@ function App() {
 						<h6 style={{ marginTop: '18px' }}><b>Master of Computer Science</b></h6>
 						<h6>Illinois, USA</h6>
 						<h6>May 2024 - Expected December 2025</h6>
-						<br />
 						<ul className='text-start fs-6' style={{ marginTop: '30px' }}>
 							<li>Summer 2024:
 								<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '5px' }}>Data Visualization</span>
@@ -100,13 +98,12 @@ function App() {
 				</Container>
 
 
-				<Container className="my-2 bg-dark text-white" style={{ width: '1000px', height: '440px' }}>
+				<Container className="my-2 bg-dark text-white" style={{ width: '1000px', height: '400px' }}>
 					<div className='col-md-10 d-flex flex-column justify-content-center'>
 						<h5><b>Oita University</b></h5>
 						<h6 style={{ marginTop: '18px' }}><b>Bachelor of Engineering in Architecture and Mechatronics</b></h6>
 						<h6>Oita, Japan</h6>
 						<h6>April 2016 - March 2020</h6>
-						<br />
 						<ul className='text-start fs-6' style={{ marginTop: '30px' }}>
 							<li>Analyzed the approaches to regional disaster prevention in the symposium</li>
 							<li style={{ marginTop: '5px' }}>Utilized LEGO® Blocks to do programming learning and disaster education </li>

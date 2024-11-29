@@ -6,7 +6,7 @@ const Navbar = () => {
 		<div>
 			<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 				<div class="container-fluid">
-					<h1 style={{ marginLeft: '20px' }}>
+					<h1>
 						<Link class="navbar-brand" to="/nicklin13_portfolio/">
 							<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-house-gear-fill" viewBox="0 0 16 16" style={{ marginRight: '6px', paddingBottom: '5px' }}>
 								<path d="M7.293 1.5a1 1 0 0 1 1.414 0L11 3.793V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v3.293l2.354 2.353a.5.5 0 0 1-.708.708L8 2.207 1.354 8.854a.5.5 0 1 1-.708-.708z" />
