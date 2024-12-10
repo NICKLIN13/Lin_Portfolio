@@ -20,22 +20,27 @@ function ProjectPage() {
 						<div className='col-md-3 d-flex justify-content-center'>
 							<div className="card">
 								<div className='card-image'>
-									<img src="nicklin13_portfolio/Project-Images/OBJ.png" alt="OBJ img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+									<img src="nicklin13_portfolio/Project-Images/Weather App.png" alt="OBJ img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
 								</div>
 								<div className="card-body">
-									<h4>3D Model Generator</h4>
+									<h4>Weather Mobile App(Team Project)</h4>
 									<div className='text-start fs-6' style={{ marginTop: '9px' }}>
-										<span className="badge bg-secondary d-inline-block">JavaScript</span>
-										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>WebGL</span>
+										<span className="badge bg-secondary d-inline-block">Android Studio</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Java</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Gemini</span>
+										<span className="badge bg-secondary d-inline-block">Google Maps</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Git</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Unit Test</span>
 									</div>
 
 									<CardText style={{ marginTop: '15px' }}>
 										<ul className="fs-6 text-start">
-											<li>Implemented texture mapping</li>
-											<li>Projected user-provided images onto any 3D models</li>
+											<li>User login, customized themes, weather data</li>
+											<li>Integrated Google Maps API and a Gemini model</li>
+											<li>Wrote unit tests and instrumented tests to ensure proper user interactions</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://youtu.be/uHb1QbmsHDE" class="btn btn-primary" target="_blank">Demo video</Button>
+									<Button className='custom-button' href="https://www.youtube.com/watch?v=1AYGFNd6I00" class="btn btn-primary" target="_blank">Demo video</Button>
 								</div>
 							</div>
 						</div>
@@ -46,7 +51,7 @@ function ProjectPage() {
 									<img src="nicklin13_portfolio/Project-Images/terrain.png" alt="3D Terrain img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
 								</div>
 								<div className="card-body">
-									<h4>3D Terrain Generator</h4>
+									<h4>Terrain Simulator</h4>
 									<div className='text-start fs-6' style={{ marginTop: '9px' }}>
 										<span className="badge bg-secondary d-inline-block">JavaScript</span>
 										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>WebGL</span>
@@ -116,26 +121,22 @@ function ProjectPage() {
 						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}} id='secondRowProject'>
 							<div className="card">
 								<div className='card-image'>
-									<img src="nicklin13_portfolio/Project-Images/Weather App.png" alt="Data Visualizatioin" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+									<img src="nicklin13_portfolio/Project-Images/OBJ.png" alt="Data Visualizatioin" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
 								</div>
 								<div className="card-body">
-									<h4>Weather Mobile App(Team Project)</h4>
+									<h4>3D Model Generator</h4>
 									<div className='text-start fs-6' style={{ marginTop: '9px' }}>
-										<span className="badge bg-secondary d-inline-block">Android Studio</span>
-										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Java</span>
-										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Gemini</span>
-										<span className="badge bg-secondary d-inline-block">Google Maps</span>
-										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>Git</span>
+										<span className="badge bg-secondary d-inline-block">JavaScript</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>WebGL</span>
 									</div>
 
 									<CardText style={{ marginTop: '15px' }}>
 										<ul className="fs-6 text-start">
-											<li>User login, customized themes, weather data</li>
-											<li>Integrated Google Maps API and a Gemini model</li>
-											<li>Wrote instrumented tests to ensure proper user interactions</li>
+											<li>Implemented texture mapping</li>
+											<li>Projected user-provided images onto any 3D models</li>
 										</ul>
 									</CardText>
-									<Button className='custom-button' href="https://www.youtube.com/watch?v=1AYGFNd6I00" class="btn btn-primary" target="_blank">Demo video</Button>
+									<Button className='custom-button' href="https://youtu.be/uHb1QbmsHDE" class="btn btn-primary" target="_blank">Demo video</Button>
 								</div>
 							</div>
 						</div>
@@ -163,7 +164,27 @@ function ProjectPage() {
 							</div>
 						</div>
 
-						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}}></div>
+						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}}>
+							<div className="card">
+								<div className='card-image'>
+									<img src="nicklin13_portfolio/Project-Images/spheres_2.png" alt="3D Terrain img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+								</div>
+								<div className="card-body">
+									<h4>Spheres Collision Simulator</h4>
+									<div className='text-start fs-6' style={{ marginTop: '9px' }}>
+										<span className="badge bg-secondary d-inline-block">JavaScript</span>
+										<span className="badge bg-secondary d-inline-block" style={{ marginLeft: '2px' }}>WebGL</span>
+									</div>
+
+									<CardText style={{ marginTop: '15px' }}>
+										<ul className="fs-6 text-start">
+											<li>Simulated the elastic collision resolution of spheres using the concept of kinetic energy and the Euler's method</li>
+										</ul>
+									</CardText>
+									<Button className='custom-button' href="https://youtu.be/b2m1NF_2YFY" class="btn btn-primary" target="_blank">Demo video</Button>
+								</div>
+							</div>
+						</div>
 						<div className='col-md-3 d-flex justify-content-center' style={{marginTop: '30px'}}></div>
 					</div>
 				</div>
