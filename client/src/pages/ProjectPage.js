@@ -48,7 +48,7 @@ function ProjectPage() {
 						<div className='col-md-3 d-flex justify-content-center'>
 							<div className="card">
 								<div className='card-image'>
-									<img src="nicklin13_portfolio/Project-Images/terrain.png" alt="3D Terrain img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
+									<img src="nicklin13_portfolio/Project-Images/terrain.jpg" alt="3D Terrain img" style={{ width: '256px', height: '256px', objectFit: 'cover', objectPosition: 'center top' }} />
 								</div>
 								<div className="card-body">
 									<h4>Terrain Simulator</h4>
