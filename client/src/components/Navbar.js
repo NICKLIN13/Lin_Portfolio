@@ -26,7 +26,7 @@ const Navbar = () => {
 								<Link class="nav-link" to="/nicklin13_portfolio/">About Me</Link>
 							</li>
 							<li class="navbar-brand">
-								<a class="nav-link" href="/nicklin13_portfolio/Yu-Ting Lin, English-CV-2024.12.19.pdf" target="_blank">Experience</a>
+								<a class="nav-link" href="/nicklin13_portfolio/Yu-Ting Lin, English-CV-2025.01.06.pdf" target="_blank">Experience</a>
 							</li>
 							<li class="navbar-brand">
 								<Link class="nav-link" to="/Project">Project</Link>

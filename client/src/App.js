@@ -67,7 +67,7 @@ function App() {
 							</li>
 						</ul>
 						<ul className='text-start fs-6'>
-							- Overall GPA: 4.0/4.0
+							- Overall GPA: 3.91/4.0
 						</ul>
 					</div>
 				</Container>
